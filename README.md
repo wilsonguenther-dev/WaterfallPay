@@ -190,7 +190,8 @@ MIT — Built by Wilson Guenther @ [Drivia Consulting](https://drivia.consulting
 If it saves you time or makes you money:
 
 - ⭐ **Star this repo** — it helps other developers find it
-- 💼 **Need help integrating this?** [Book a call with Wilson](https://drivia.consulting) — custom implementation, enterprise support, or white-label licensing available
+- 💼 **Need help integrating this?** Text or call Wilson directly: **[+1 (512) 738-7951](tel:+15127387951)** — custom implementation, enterprise support, or white-label licensing
+- 🔗 **Connect on LinkedIn:** [linkedin.com/in/wilsonguenther](https://www.linkedin.com/in/wilsonguenther/)
 - ☕ **[Sponsor this project](https://github.com/sponsors/wilsonguenther-dev)** — keeps the open source work going
 
 > Built at [Drivia](https://drivia.consulting) — AI-powered education infrastructure.
