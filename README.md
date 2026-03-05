@@ -180,3 +180,18 @@ STRIPE_WEBHOOK_SECRET=whsec_...
 ## License
 
 MIT — Built by Wilson Guenther @ [Drivia Consulting](https://drivia.consulting)
+
+---
+
+## Support & Commercial Use
+
+**This project is MIT licensed — free to use, modify, and ship.**
+
+If it saves you time or makes you money:
+
+- ⭐ **Star this repo** — it helps other developers find it
+- 💼 **Need help integrating this?** [Book a call with Wilson](https://drivia.consulting) — custom implementation, enterprise support, or white-label licensing available
+- ☕ **[Sponsor this project](https://github.com/sponsors/wilsonguenther-dev)** — keeps the open source work going
+
+> Built at [Drivia](https://drivia.consulting) — AI-powered education infrastructure.
+
